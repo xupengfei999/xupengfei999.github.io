@@ -1,5 +1,5 @@
 # Site settings
-title: zhenxi
+title: 飞哥
 description: >
   A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
 
@@ -7,8 +7,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://xupengfei999.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: zhenxi1
-  github: github
+  fullname: faker
+  github: https://xupengfei999.github.io
   linkedin: linkedin
   email: 1679330834@qq.com
 
