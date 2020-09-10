@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Résumé
-subtitle: An awesome person
+title: 简历
+subtitle: 无敌的我
 ---
 
-<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
+<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> 下载PDF</strong></a> </span>
 <br>
 
 ### SKILLS
-``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
+``` 如果他在受苦，他会被认为是在帮助他。你死了，但是我的肖像。在喝乌龟时，不要把大块的末末，它会把多余的骨灰盒掸掉。但是桥是模糊的，不是箭头。你需要和自己谈谈。Quisque id为空。我不需要钻石。你不必去悼词会。  ```  
 
 ### PROJECTS
 **Title** - Description - Place <span style="float: right; ">Time span</span>  
